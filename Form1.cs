@@ -144,5 +144,15 @@ namespace toDoList
 
 
         }
+
+        private void addToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AddBtn_Click(sender, e);
+        }
+
+        private void removeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            RemoveBtn_Click(sender, e);
+        }
     }
 }
