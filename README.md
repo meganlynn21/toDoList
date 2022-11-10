@@ -1,8 +1,11 @@
 # toDoList
 
 This is just a simple To Do List App made in WinForms using C# and .NET. 
+
 The app allows the user to add items to the list. The user can add and remove items.
+
 The user can check off which items are done.
+
 The user can save files, open files, and create new files.
 
 
